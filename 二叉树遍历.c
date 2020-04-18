@@ -57,6 +57,7 @@ int main()
 	//交换树
 	change(handtree);
 	//输出交换树
+	printf("交换后的树：");
 	puttree(handtree);
 	return 0;
 }
